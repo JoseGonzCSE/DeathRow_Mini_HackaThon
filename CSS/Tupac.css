@@ -49,3 +49,19 @@ iframe {
     filter: grayscale(100%); 
     opacity: .8; 
 }
+/*Might delete due to potential combatability */
+::-webkit-scrollbar {
+    width: 15px;
+}
+
+::-webkit-scrollbar-track {
+    background: #555555;
+}
+
+
+::-webkit-scrollbar-thumb {
+    background: #c4c3c3;
+}
+::-webkit-scrollbar-button{
+    background-color: #c4c3c3;
+}

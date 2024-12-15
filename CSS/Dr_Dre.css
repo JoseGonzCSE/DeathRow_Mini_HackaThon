@@ -22,7 +22,7 @@ body{
     
     width: 60%;
     height: 700px;
-    overflow-y: scroll;
+    overflow: auto;
     background-color: rgb(150, 150, 150);
     padding: 20px;
     margin: 100px auto;

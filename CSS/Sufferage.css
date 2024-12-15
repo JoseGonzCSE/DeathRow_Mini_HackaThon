@@ -27,6 +27,21 @@ body{
     padding: 20px;
     margin: 100px auto;
 
-    
-    
+}
+.top_container{
+    display: flex;
+    gap: 20px;
+}
+iframe {
+    border: 2px solid black;
+    filter: grayscale(100%); 
+    opacity: .8; 
+}
+.Record {
+    width: 100%;
+    margin: 20px ;
+    padding: 10px;
+    background-color: #F0F0F0; 
+    border: 2px solid #808080; 
+    text-align: center;
 }
